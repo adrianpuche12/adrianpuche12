@@ -9,14 +9,20 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/adrianpucheta/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-b
-  adge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-squa
+  re&logo=linkedin&logoColor=white"/>
     </a>
     &nbsp;
     <a href="mailto:jorgeadrian_pucheta@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badg
-  e&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&
+  logo=gmail&logoColor=white"/>
     </a>
+    &nbsp;
+    <img
+  src="https://img.shields.io/badge/Ireland_🇮🇪-009933?style=flat-square"/>
+    &nbsp;
+    <img
+  src="https://img.shields.io/badge/Open_to_EU-0066CC?style=flat-square"/>
   </p>
 
 

@@ -1,63 +1,136 @@
-<h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+ <h1 align="center">Adrian Pucheta</h1>
 
-- 🌱 I’m currently learning **Spring.io**
+  <h3 align="center">
+    Backend Engineer &nbsp;|&nbsp; Java 21 · Spring Boot 3 · Docker ·
+  Node.js
+    <br/>
+    Production SaaS & Cloud Infrastructure &nbsp;|&nbsp; Open to Relocation
+  (EU)
+  </h3>
 
-- 💬 Ask me about **React, Java**
+  <br/>
 
-- 📫 How to reach me **jorgeadrian_pucheta@hotmail.com**
+  <p align="center">
+    <a href="https://linkedin.com/in/adrianpucheta">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-b
+  adge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:jorgeadrian_pucheta@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badg
+  e&logo=gmail&logoColor=white"/>
+    </a>
+    <img src="https://img.shields.io/badge/Based_in-Drogheda,_Ireland-009933
+  ?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Open_to-Poland_·_Luxembourg_·_EU-
+  blue?style=for-the-badge"/>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/adrianpuche12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adrianpuche12" height="30" width="40" /></a><span>--------------<span>
-<a href="https://linkedin.com/in/adrianpucheta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianpucheta/" height="30" width="40" /></a><span>--------------<span>
-<a href="https://codesandbox.com/adrianpuche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adrianpuche" height="30" width="40" /></a><span>--------------<span>
-<a href="https://dribbble.com/adrianpuche12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="adrianpuche12" height="30" width="40" /></a><span>--------------<span>
-<a href="https://hashnode.com/@adrian579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@adrian579" height="30" width="40" /></a><span>--------------<span>
-<a href="https://www.hackerrank.com/jorgeadrian_puc1/hackos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jorgeadrian_puc1/hackos" height="30" width="40" /></a>
+  ---
 
-</p>
+  ### About Me
 
-<h3 align="left">Languages and Tools:</h3>
+  - Building and deploying **complete software systems in production** since
+   2021
+  - Independent developer with live systems running for clients in
+  **Argentina, Honduras, and Uruguay**
+  - Integrating **AI** (Claude, Gemini) into production applications
+  - Currently based in **Drogheda, Ireland** — open to relocation within the
+   EU
 
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a><span>--------------<span>
- <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a><span>--------------<span>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><span>--------------<span>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><span>--------------<span>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a><span>--------------<span>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  ---
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><a><span>--------------<span>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<span>--------------<span>
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a><span>--------------<span>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><span>--------------<span>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a><span>--------------<span>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><span>--------------<span>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><span>--------------<span>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<span>--------------<span>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  ### Tech Stack
 
+  **Backend**
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<span>--------------<span>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<span>--------------<span>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&lo
+  go=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for
+  -the-badge&logo=springboot&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge
+  &logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge
+  &logo=express&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-bad
+  ge&logo=postman&logoColor=white)
 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/><a><span>--------------<span>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a><span>--------------<span>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  **Frontend**
 
+  ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&
+  logo=react&logoColor=61DAFB)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for
+  -the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-ba
+  dge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the
+  -badge&logo=typescript&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the
+  -badge&logo=tailwind-css&logoColor=white)
 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<span>--------------<span>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<span>--------------<span>
-<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> 
-</a>
+  **Databases & Cache**
 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the
+  -badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&log
+  o=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&log
+  o=redis&logoColor=white)
+
+  **Infrastructure & DevOps**
+
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&l
+  ogo=docker&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&log
+  o=nginx&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-b
+  adge&logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge
+  &logo=ansible&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&log
+  o=linux&logoColor=black)
+  ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-bad
+  ge&logo=keycloak&logoColor=white)
+
+  **AI Integration**
+
+  ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-b
+  adge&logo=anthropic&logoColor=white)
+  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&l
+  ogo=google&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-b
+  adge&logo=langchain&logoColor=white)
+
+  ---
+
+  ### Production Projects
+
+  | Project | Stack | Status |
+  |---------|-------|--------|
+  | **Humberto** — Financial management system (Honduras) | Java 21, Spring
+  Boot 3, MySQL, Keycloak, Docker (32 containers) | ✅ Live |
+  | **Kaia** — AI voice assistant mobile app | React Native, Node.js,
+  PostgreSQL, Redis, Claude AI — 61 REST endpoints | ✅ Live |
+  | **Padilla** — Real estate SaaS + WhatsApp automation | Spring Boot 3,
+  React 19, PostgreSQL, Docker Swarm, n8n | ✅ Live |
+  | **Geronimo** — AI knowledge platform (multi-tenant RAG) | React 19,
+  Express, PostgreSQL, ChromaDB, Keycloak | 🔨 In Progress |
+  | **Farmacity Group** — 5 enterprise e-commerce stores | VTEX IO, React,
+  TypeScript — Argentina & Uruguay | ✅ Live (3.5 yrs) |
+
+  ---
+
+  ### GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=adrianpuch
+  e12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username
+  =adrianpuche12&layout=compact&theme=tokyonight&hide_border=true"
+  width="48%"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianp
+  uche12&theme=tokyonight&hide_border=true" width="60%"/>
   </p>

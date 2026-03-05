@@ -1,3 +1,25 @@
+
+
+<h1 align="center">Adrian Pucheta</h1>
+
+  <h3 align="center">Backend Engineer · Java 21 · Spring Boot 3 · Docker ·
+  Node.js</h3>
+  <p align="center">Production SaaS & Cloud Infrastructure &nbsp;|&nbsp;
+  Open to Relocation — Poland · Luxembourg · EU</p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/adrianpucheta/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-b
+  adge&logo=linkedin&logoColor=white"/>
+    </a>
+    &nbsp;
+    <a href="mailto:jorgeadrian_pucheta@hotmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badg
+  e&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+
 <!-- BANNER ANIMADO -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&c
   olor=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adrian%2
